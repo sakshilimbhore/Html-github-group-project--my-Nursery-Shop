@@ -1,20 +1,20 @@
-# 🌿 Green Nursery Shop
+#  Green Nursery Shop
 ### Green Nursery Shop is a modern and user-friendly web application designed for selling plants, indoor, outdoor, flower plant , medicine. The system allows customers to browse products, place orders, and manage their shopping experience, while administrators can efficiently manage products, categories, and customer orders.
 ![Screenshots](./image/home.webp)
 ## Features
-- 🏠 Home Page
-- 🌿 About Us Page
-- 🌱 Plants Information
-- 🛒 Plant/Product Section
-- 📝 Feedback Page
-- 📞 Contact Page
-- 🧭 Navigation Bar
-- 📱 User-friendly design
-- 🔗 Navigation between multiple pages
-- 📄 Footer section
-# 🛠️ Technologies Used
+-  Home Page
+-  About Us Page
+-  Plants Information
+-  Plant/Product Section
+-  Feedback Page
+-  Contact Page
+-  Navigation Bar
+-  User-friendly design
+-  Navigation between multiple pages
+-  Footer section
+#  Technologies Used
 - HTML
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Html-github-group-project--my-Nursery-Shop/
@@ -73,6 +73,8 @@ Contains contact information and a form for users to get in touch with the nurse
 - Add user login and registration.
 - Make the website fully responsive.
 - Add plant care information.
-## 🌱 Thank You
+  ## Contributors
+https://contrib.rocks/image?repo=sakshilimbhore/Html-github-group-project--my-Nursery-Shop
+##  Thank You
 Thank you for visiting the Green Nursery Shop project. Happy Gardening! 
 
